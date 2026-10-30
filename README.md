@@ -2,13 +2,11 @@
 <p align="right">
 <img width="100" height="100" alt="ChatGPT Image Oct 31, 2026, 12_46_40 AM" src="https://github.com/user-attachments/assets/6e150803-5b0f-4513-a929-6c22f266ef29" />
  </p>
-<h1 align="top left">Pavandeep</h1>
+<h1 align="top left">Product Development Associate</h1>
 
-<h3 align="center">Product Development Associate</h3>
-
-<p align="center">
+<h3 align="center">
   Building products · Exploring AI · Learning continuously
-</p>
+</h3>
 
 <p align="center">
   <a href="https://pavandeep.runs-on.dev/">Portfolio</a> ·
