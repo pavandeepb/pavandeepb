@@ -1,6 +1,10 @@
 <!-- PERSONAL BRANDING -->
 <p align="center">
-  <img src="assets/profile-mark.jpg" width="115" alt="Pavandeep personal logo"/>
+<img width="1536" height="1445" alt="ChatGPT Image Oct 31, 2026, 12_46_40 AM" src="https://github.com/user-attachments/assets/6e150803-5b0f-4513-a929-6c22f266ef29" />
+
+
+
+  
 </p>
 
 <h1 align="center">Pavandeep</h1>
