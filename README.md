@@ -1,7 +1,7 @@
-# Hey, I'm Pavandeep 👋
+# Product Development Associate 
 
 <p align="center">
-  <b>Product Development Associate</b>
+  <b></b>
   <br/>
   Building products · Exploring AI · Learning continuously
 </p>
