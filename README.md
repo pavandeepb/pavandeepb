@@ -1,5 +1,8 @@
 # Product Development Associate 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavandeepb&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 <p align="center">
   <a href="https://pavandeep.runs-on.dev/">Portfolio</a> ·
@@ -7,16 +10,12 @@
   <a href="https://medium.com/@pavandeepb">Medium</a> ·
   <a href="mailto:pavandeep.net@gmail.com">Email</a>
 </p>
+
 <p align="center">
   <b></b>
   <br/>
   Building products · Exploring AI · Learning continuously
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavandeepb&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
 ---
 
 ### 01 / About Me
