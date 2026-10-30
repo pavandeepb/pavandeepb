@@ -80,20 +80,7 @@ I'm interested in building practical software products and exploring how emergin
 
 ---
 
-### 04 / GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavandeepb&theme=github_dark" width="95%" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavandeepb&theme=github_dark" width="46%" alt="Repository Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavandeepb&theme=github_dark" width="46%" alt="GitHub Stats"/>
-</p>
-
----
-
-### 05 / Let's Connect
+### 04 / Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/pavandeepb">
