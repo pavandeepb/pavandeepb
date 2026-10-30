@@ -27,7 +27,7 @@ I'm interested in building practical software products and exploring how emergin
 - 🌱 Exploring **Generative AI, RAG, LLMs and Backend Development**
 - ⚙️ Interested in **Full-Stack Development and AI-powered applications**
 - 📝 I occasionally share my learnings on [Medium](https://medium.com/@pavandeepb)
-- 🌐 Explore my work: [pavandeep.is-a.dev](https://pavandeep.is-a.dev)
+- 🌐 Explore my work: [pavandeep.runs-on.dev](https://pavandeep.runs-on.dev/)
 
 ---
 
