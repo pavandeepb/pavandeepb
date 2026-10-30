@@ -1,16 +1,16 @@
 # Product Development Associate 
 
-<p align="center">
-  <b></b>
-  <br/>
-  Building products · Exploring AI · Learning continuously
-</p>
 
 <p align="center">
   <a href="https://pavandeep.runs-on.dev/">Portfolio</a> ·
   <a href="https://linkedin.com/in/pavandeepb">LinkedIn</a> ·
   <a href="https://medium.com/@pavandeepb">Medium</a> ·
   <a href="mailto:pavandeep.net@gmail.com">Email</a>
+</p>
+<p align="center">
+  <b></b>
+  <br/>
+  Building products · Exploring AI · Learning continuously
 </p>
 
 <p align="center">
