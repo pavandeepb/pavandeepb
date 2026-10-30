@@ -16,7 +16,6 @@
   <br/>
   Building products · Exploring AI · Learning continuously
 </p>
----
 
 ### 01 / About Me
 
