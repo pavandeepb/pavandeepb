@@ -1,7 +1,14 @@
-# Product Development Associate 
+<!-- PERSONAL BRANDING -->
+<p align="center">
+  <img src="assets/profile-mark.jpg" width="115" alt="Pavandeep personal logo"/>
+</p>
+
+<h1 align="center">Pavandeep</h1>
+
+<h3 align="center">Product Development Associate</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavandeepb&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+  Building products · Exploring AI · Learning continuously
 </p>
 
 <p align="center">
@@ -12,10 +19,10 @@
 </p>
 
 <p align="center">
-  <b></b>
-  <br/>
-  Building products · Exploring AI · Learning continuously
+  <img src="https://komarev.com/ghpvc/?username=pavandeepb&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
+
+---
 
 ### 01 / About Me
 
